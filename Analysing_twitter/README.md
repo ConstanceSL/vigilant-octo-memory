@@ -1,8 +1,12 @@
 # Analysing pro and anti immigration tweets
-Project in progress, looking at pro and anti immigration tweets
+Project in progress, looking at pro and anti immigration discourses on Twitter using NLP
+
+
 The first part was done as my capstone project for the Propulsion Academy Data Science Bootcamp, and is presented below
+
 The project is currently being developed further as part of a study done with Vlad Glaveanu and Claude Chaudet,
 both researchers at Webster University Geneva.
+
 
 ## Propulsion Capstone project presentation
 

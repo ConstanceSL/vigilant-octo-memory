@@ -15,7 +15,7 @@ IMPORTING THE DATA
 
 def string_to_list(column):
     """
-    Many of the cells in the dataframe contain lists that are converted to string when saved to csv
+    Many of the cells in the data frame contain lists that are converted to string when saved to csv
     This converts them back to lists
     :param column: column to convert from string to list
     :return: list
